@@ -1,0 +1,150 @@
+Control read
+Control read: reqtype=80 request=06 value=0100 index=0000
+Control read
+Control read: reqtype=80 request=06 value=0200 index=0000
+Control read
+Control read: reqtype=80 request=06 value=0200 index=0000
+Control read
+Control read: reqtype=80 request=06 value=0300 index=0000
+Control read
+Control read: reqtype=80 request=06 value=0301 index=0409
+Control read
+Control read: reqtype=80 request=06 value=0302 index=0409
+Control read
+Control read: reqtype=80 request=06 value=0303 index=0409
+Control read
+Control read: reqtype=80 request=06 value=0302 index=0409
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0000
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0001
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0002
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0003
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0004
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0005
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0006
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0007
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0008
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0009
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=000A
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=000B
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=000C
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=000D
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=000E
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=000F
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0010
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0011
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0012
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0013
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0014
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0015
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0016
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0017
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0018
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0019
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=001A
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=001B
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=001C
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=001D
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=001E
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=001F
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0020
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0021
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0022
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0023
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0024
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0025
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0026
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0027
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0028
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0029
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=002A
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=002B
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=002C
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=002D
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=002E
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=002F
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0030
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0031
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0032
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0033
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0034
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0035
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0036
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0037
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0038
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=0039
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=003A
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=003B
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=003C
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=003D
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=003E
+Control read
+Control read: reqtype=C0 request=90 value=0000 index=003F
+Control read
+Control read: reqtype=C0 request=05 value=0000 index=0000
+Control read
+Control read: reqtype=C0 request=05 value=0000 index=0000
+Control read
+Control read: reqtype=C0 request=05 value=0000 index=0000
